@@ -25,8 +25,7 @@ Copiar código
 As imagens abaixo correspondem aos códigos implementados em cada um dos cinco testes realizados.
 
 ### 📌 Teste 1 — Random Forest e XGBoost com GridSearchCV
-![Teste 1](images/code1tcc.png
-)
+![Teste 1](images/code1tcc.png)
 
 ### 📌 Teste 2 — Random Forest e XGBoost com RandomizedSearchCV
 ![Teste 2](images/code2tcc.png)
