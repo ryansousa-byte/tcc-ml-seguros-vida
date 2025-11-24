@@ -25,19 +25,19 @@ Copiar código
 As imagens abaixo correspondem aos códigos implementados em cada um dos cinco testes realizados.
 
 ### 📌 Teste 1 — Random Forest e XGBoost com GridSearchCV
-![Teste 1](images/code 1 tcc.png)
+![Teste 1](images/code1tcc.png)
 
 ### 📌 Teste 2 — Random Forest e XGBoost com RandomizedSearchCV
-![Teste 2](images/code 2 tcc.png)
+![Teste 2](images/code2tcc.png)
 
 ### 📌 Teste 3 — LGBM com Optuna (50 iterações)
-![Teste 3](images/code 3 tcc.png)
+![Teste 3](images/code3tcc.png)
 
 ### 📌 Teste 4 — LGBM com Optuna (ajuste final de hiperparâmetros)
-![Teste 4](images/code 4 tcc.png)
+![Teste 4](images/code4tcc.png)
 
 ### 📌 Teste 5 — Pipeline completo com Random Forest + SMOTE
-![Teste 5](images/code 5 tcc.png)
+![Teste 5](images/code5tcc.png)
 
 ---
 
